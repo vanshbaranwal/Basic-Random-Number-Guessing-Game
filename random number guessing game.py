@@ -6,9 +6,10 @@ def play_game():
     
     print("\nWelcome user!!\n")
     print('''    This is a number guessing game where you will be guessing a number
-    between 1 to 5 and a number will be guessed by the system if the number guessed by you and the 
-    system is same then you won otherwise you loose and you will get another chance to play till you make a
-    correct guess.\n''')
+    between start_range to end_range and a number will be guessed by the computer if the number guessed by you and the 
+    computer is same then you won otherwise you loose and you will get total 3 attempts to make a
+    correct guess.\n    ''')
+    
     attempts=0
     total_attempts=3
 
