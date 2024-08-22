@@ -1,7 +1,5 @@
 #1. Number Guessing Game
 
-## need to add a gui in it.then we'll be posting it on linkedin.
-
 import random
 
 def play_game():
